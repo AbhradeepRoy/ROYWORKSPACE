@@ -1,0 +1,7 @@
+{
+  "name": "Pathweaver AI - Intelligent Career Navigator",
+  "description": "A context-aware career guidance platform that uses AI to map students' interests, skills, and learning history to modern career opportunities with real-time market data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
